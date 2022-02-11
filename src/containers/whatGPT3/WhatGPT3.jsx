@@ -5,18 +5,18 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3_whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="What is GPT-3" text="Our mission is to organize the world’s information and make it universally accessible and useful. AI is helping us do that in exciting new ways, solving problems for our users, our customers, and the world." />
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">
-        The possibilities are beyond your imagination
+        The possibilities are beyond our imagination
       </h1>
       <p>Explore The Library</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. " />
-      <Feature title="Knowledge base" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Publications" text="We publish hundreds of research papers in any given year. Publishing enables us to collaborate as a whole and share our thoughts and ideas within the scientific community." />
+      <Feature title="Research Areas" text="Fundamental research and influencing product development is how we best make an impact on technology, used by billions of people every day." />
+      <Feature title="Tools & Datasets" text="We create tools and datasets and make them widely available to the broader research community with the goal of building a more collaborative and sustainable ecosystem." />
     </div>
   </div>
 );

@@ -4,27 +4,27 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    title: 'What is Machine Learning?',
+    text: 'Learn the fundamental of Machine Learning and see how it works under the hood.',
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
+    title: 'AI Experiments',
+    text: 'Explore how machine learning functions through live experiments including drawings, language practice, music and more. No code required.',
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
+    title: 'Machine Learning - Make sense of the weirdness',
+    text: 'Discover how machine learning can improve our lives through computers and other things we use them for.',
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.',
+    title: 'Solving real world problems with Machine Learning',
+    text: 'From helping Doctors in Mumbai diagnose eye disease to helping farmers in third world countries, machine learning is shaping the way we use code to solve real world problems.',
   },
 ];
 
 const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
+      <h1 className="gradient__text">Introducing the benefits of AI to the community.</h1>
       <p>Request Early Access to Get Started</p>
     </div>
     <div className="gpt3__features-container">
